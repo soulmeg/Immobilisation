@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(106, 155, 247); /* Fond bleu foncé */
+    /* color: #fff; /* Texte blanc */
+}
+
+.form-container {
+    width: 60rem;
+    margin: auto;
+    margin-top: 5rem;
+    background-color: white;
+    padding: 2rem;
+    border-radius: 1rem;
+    line-height: 3rem;
+}
+
+#button-submit{
+    width: 56rem;
+}
