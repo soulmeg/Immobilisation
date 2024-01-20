@@ -52,6 +52,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'ServiceController/index';
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
-$route['loadProForma'] = 'PRO_FORMA/ProFormaController/load_insert';
-$route['insertProForma'] = 'PRO_FORMA/ProFormaController/insert';
-$route['testMinProForma'] = 'PRO_FORMA/ProFormaController/test';
